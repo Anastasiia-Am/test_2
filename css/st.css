@@ -203,29 +203,29 @@ text-align: center;
   color: #332B5B;
   margin-bottom: 6%;
 }
-.s04_block{
+.s04_blog{
   display: flex;
   justify-content: center;
   align-items: flex-start;
   gap: 5%;
   margin: 0% 0% 0% 0%;
 }
-.s04_block_left{
+.s04_blog_left{
   width: 37%;
 }
-.s04_block_left p{
+.s04_blog_left p{
 border: 1px solid white;
 padding: 3% 2%;
 margin-top: -1%;
 }
-.s04_block_left p:first-child{
+.s04_blog_left p:first-child{
   background-color: #DA6A66;
 }
-.s04_block_right{
+.s04_blog_right{
   width: 40%;
   color:#332B5B;
 }
-.s04_block_right p{
+.s04_blog_right p{
   padding: 9.5% 0% 0% 9%; 
 }
 .s05{
@@ -235,40 +235,39 @@ margin-top: -1%;
   justify-content: flex-start;
   align-items: flex-start;
 }
-.s05_block_right{
+.s05_blog_right{
   padding: 11% 0% 0% 4.5%;
 }
-.s05_block_right p{
+.s05_blog_right p{
   margin-top: 2%;
   margin-bottom: 7%;
 }
-.s05_block_right div{
+.s05_blog_right div{
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
   gap: 6%;
 }
-.s05_block_right ul{
+.s05_blog_right ul{
   list-style-type: none;
   padding: 0% 0% 0% 0%;
   font-size: 23px;
     font-weight: 400;
     line-height: 23px;
 }
-.s05_block_right ul>li{
+.s05_blog_right ul>li{
   margin-bottom: 8%;
 }
-.s05_block_right a{
+.s05_blog_right a{
   font-size: 16px;
   font-weight: 700;
   line-height: 21px;
   color: #FAE9D6;
-  
   border: 2px solid #FAE9D6;
   border-radius: 0px 50px 50px 0px;
     padding: 11px 42px;
 }
-.s05_block_right a:active, .s05_block_right a:hover{
+.s05_blog_right a:active, .s05_block_right a:hover{
   background-color:rgba(250, 233, 214, 0.5);
   transform-duration: 0.5s ;
 }
