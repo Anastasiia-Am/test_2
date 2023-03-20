@@ -267,7 +267,7 @@ margin-top: -1%;
   border-radius: 0px 50px 50px 0px;
     padding: 11px 42px;
 }
-.s05_blog_right a:active, .s05_block_right a:hover{
+.s05_blog_right a:active, .s05_blog_right a:hover{
   background-color:rgba(250, 233, 214, 0.5);
   transform-duration: 0.5s ;
 }
